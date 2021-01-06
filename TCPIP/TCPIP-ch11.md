@@ -35,9 +35,9 @@
             * 距離向量法語連線狀態法的結合
             * 具有彈性和更有效率
         * 尋徑表建置
-        ![ICMP錯誤訊息標頭]()
+        ![尋徑表建置](https://github.com/www-abcdefg/TCPIP-/blob/main/TCPIP/picture/%E5%B0%8B%E5%BE%91%E8%A1%A8.png)
         * 距離向量法vs連線狀態法
-        ![距離向量法vs連線狀態法]()
+        ![距離向量法vs連線狀態法](https://github.com/www-abcdefg/TCPIP-/blob/main/TCPIP/picture/%E6%AF%94%E8%BC%83.png)
 * 自律系統
     * 以16位元的AS編碼進行辨認
 * 尋徑協定
